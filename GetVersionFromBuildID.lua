@@ -1,3 +1,4 @@
+-- spare script for later, not using it rn cause adding dots to the version is kinda useless anyway
 local function GetVersionFromBuildID(ID)
 	ID = tostring(ID)
 
